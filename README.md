@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **armanurrashid105086@gmail.com**
 
-- ⚡ Fun fact **I love to play football**
+- ⚡ Fun fact **I love to play cricket**
 
 
 <h3 align="left">Languages and Tools:</h3>
