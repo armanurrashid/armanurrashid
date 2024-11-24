@@ -23,4 +23,3 @@
 
 <p><img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=armanurrashid&" alt="armanurrashid" /></p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=armanurrashid&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
